@@ -80,5 +80,5 @@ import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 ```
 
-### obsessão
+### observação
 Todos os créditos pelo conteúdo deste README bem elaborado são atribuídos à devSuperior."
